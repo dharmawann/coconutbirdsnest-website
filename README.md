@@ -11,8 +11,6 @@ The site is deployed via **GitHub Pages** with a **custom domain** (`coconutbird
 The website is publicly accessible at:  
 [https://coconutbirdsnest.com](https://coconutbirdsnest.com)
 
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c5003958-8703-40c1-ba96-d02adc2e30ad" />
-
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e12d4a9d-0708-45ec-8667-4f6956b7c66b" />
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/aa00a742-d773-4417-b976-250ffc1c274e" />
