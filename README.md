@@ -11,6 +11,22 @@ The site is deployed via **GitHub Pages** with a **custom domain** (`coconutbird
 The website is publicly accessible at:  
 [https://coconutbirdsnest.com](https://coconutbirdsnest.com)
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c5003958-8703-40c1-ba96-d02adc2e30ad" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/e12d4a9d-0708-45ec-8667-4f6956b7c66b" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/aa00a742-d773-4417-b976-250ffc1c274e" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/eff34a33-1975-43f3-bee4-874b0d0155b4" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ce7892da-99d7-4f0a-b567-7080028bf39b" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/ba8ac828-4c4c-48ef-89b1-9894b4d115b6" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/17b74b9b-739f-4145-ab32-3cd14cb265c3" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a88f16ff-6af1-4996-9c0e-fc06b8ff4438" />
+
 ---
 
 ## Features
